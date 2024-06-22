@@ -19,8 +19,9 @@ Usage:
     Upload your PDF file through the web interface.
     Select preferred audio settings (voice, speed, format).
     Initiate the conversion process.
-    Download or listen to the converted audio file.
-
+    Download or listen to the converted audio file. 
 Creators:
-G SAI ROOPESH
-HRITHIK P GOWDA
+G Sai Roopesh
+
+Hrithik P Gowda
+
