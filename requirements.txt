@@ -1,0 +1,5 @@
+Django
+pdfminer.six
+google-cloud-texttospeech
+google-generativeai 
+python-dotenv
